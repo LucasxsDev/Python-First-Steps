@@ -1,4 +1,4 @@
-# Olá, Mundo!
-Primeiro repositório!
+# Hello, World!
+This is my first repository, created to practice python and document my first steps in programming.
 
-Repositório para pequenos projetos em python.
+Here i'll keep small projects, exercises and experiments.
